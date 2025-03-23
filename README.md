@@ -1,20 +1,22 @@
-# Hello, World! 😃  
-### A student passionate about technology.
+# Alô, Mundo! 😃  
+Sou uma estudante apaixonada por tecnologias.
 
 ---
 
-## 🧐 About Me  
-Currently studying to become a Software Quality Engineer, diving into Programming Logic and discovering new technologies that I’m falling in love with. When I’m not learning, I’m either training at the gym, perfecting my footvolley game, or practicing Jiu Jitsu. I love learning new things, traveling, and enjoying a good wine.
+## 🧐 Sobre  
+Atualmente estudando para ser Engenheira de Qualidade de Software, começando na Lógica da Programação e descobrindo as tecnologias e me apaixonando por elas. Ora treinando musculação, ora aperfeiçoando a chapa no futevôlei ou treinando Jiu Jitsu. Adoro aprender coisas novas, viajar e curtir um bom vinho.
 
 ---
 
-## ⚡ Technologies  
-- Code Quality with **Checkstyle** and **SonarQube**  
-- Back-end development with **Python.js**  
-- Proficient in **Agile Methodologies**  
-- Experienced with **Power BI** and **Excel**  
+## ⚡ Tecnologias  
+- Qualidade de Código usando **Checkstyle** e **SonarQube**  
+- Back-end usando **Python.Js**  
+- Domínio de **Metodologias Ágeis**  
+- Conhecimento em **Power BI** e **Excel**  
 
 ---
 
-## 📫 Contact  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaqueline-blue)](https://www.linkedin.com/in/jaqueline-barbosa13/)  
+## 📫 Contato  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/jaqueline-barbosa13/)    
+---
+ 
