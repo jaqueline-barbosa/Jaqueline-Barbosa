@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, World! 😃  
+### A student passionate about technology.
 
-<!--
-**jaqueline-barbosa/jaqueline-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧐 About Me  
+Currently studying to become a Software Quality Engineer, diving into Programming Logic and discovering new technologies that I’m falling in love with. When I’m not learning, I’m either training at the gym, perfecting my footvolley game, or practicing Jiu Jitsu. I love learning new things, traveling, and enjoying a good wine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Technologies  
+- Code Quality with **Checkstyle** and **SonarQube**  
+- Back-end development with **Python.js**  
+- Proficient in **Agile Methodologies**  
+- Experienced with **Power BI** and **Excel**  
+
+---
+
+## 📫 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaqueline-blue)](https://www.linkedin.com/in/jaqueline-barbosa13/)  
